@@ -12,7 +12,6 @@ module.exports = function(grunt) {
                 dest: 'build/css/style.css'
             }
         },
-
         watch: {
             js: {
                 files: 'js/*.js',
